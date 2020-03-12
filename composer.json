@@ -1,5 +1,5 @@
 {
-    "name": "EugeneGpil/moysklad",
+    "name": "eugenegpil/moysklad",
     "description": "Origin: https://github.com/Tooyz/moysklad. Modified: https://github.com/EugeneGpil/moysklad",
     "require": {
         "php": ">=5.6.0",
