@@ -30,7 +30,7 @@ class MoySkladHttpClient{
         $this->login = $login;
         $this->password = $password;
         $this->posToken = $posToken;
-        $this->endpoint = "https://" . $subdomain . ".moysklad.ru/api/remap/1.1/";
+        $this->endpoint = "https://" . $subdomain . ".moysklad.ru/api/remap/1.2/";
     }
 
     public function setPosToken($posToken){
